@@ -1,13 +1,13 @@
 ## Readme Foor Loop
 **This is bold and *This text is italicized*
 '''
-nums = [1, 2, 3, 4, 5]  ***All this text is important***
+-nums = [1, 2, 3, 4, 5]  ***All this text is important***
 
-for num in nums:
-    if num == 3:
-        print('Found!')
-        break
-    print(num)
+-for num in nums:
+-    if num == 3:
+-        print('Found!')
+-        break
+-    print(num)
 '''
 ## Task lists
 -[x] Finish my changes
