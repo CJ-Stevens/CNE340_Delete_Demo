@@ -7,6 +7,7 @@ for num in nums:
         break
     print(num)
 
+## Task lists
 [x] Finish my changes
 [ ] Push my commits to GitHub
 [ ] Open a pull request
@@ -16,3 +17,5 @@ python test1.py
  ## Using emoji
  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 This readme was built using [Readme Guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
+## Thanks
+Provide thank yous and attributions here.
