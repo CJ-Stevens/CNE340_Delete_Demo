@@ -1,16 +1,18 @@
 ## Readme Foor Loop
 **This is bold and *This text is italicized*
+'''
 nums = [1, 2, 3, 4, 5]  ***All this text is important***
+
 for num in nums:
     if num == 3:
         print('Found!')
         break
     print(num)
-
+'''
 ## Task lists
-[x] Finish my changes
-[ ] Push my commits to GitHub
-[ ] Open a pull request
+-[x] Finish my changes
+-[ ] Push my commits to GitHub
+-[ ] Open a pull request
 
 Once installed you can run the program with the following command
 python test1.py
