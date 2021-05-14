@@ -31,8 +31,9 @@ git commit
 
 :octocat:[Learning Rest vs GraphQL](https://www.youtube.com/watch?v=4akSaaEYJqs)<br>
 :octocat:[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
-:octocat:[เงื่อนไข (condition) if, else, elif และเงื่อนไขซ้อน nested if ](https://www.youtube.com/watch?v=VyCsBjx0Iug)
-   
+:octocat:[เงื่อนไข (condition) if, else, elif และเงื่อนไขซ้อน nested if ](https://www.youtube.com/watch?v=VyCsBjx0Iug)<br>
+:octocat:[เรียนรู้พื้นฐานการใช้งาน Git & GitHub](https://www.youtube.com/watch?v=RR_Ih6d71YA&list=RDCMUCeKE6wQHTt5JpS9_RsH4hrg&start_radio=1&t=111s)<br> 
+:octocat:[Git Tutorial for Beginners - GitHub Version Control](https://www.youtube.com/watch?v=PWqS4NBhEY8)
 ## Task lists
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
