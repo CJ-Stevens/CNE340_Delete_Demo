@@ -1,13 +1,6 @@
-## Project Fork:(README.md)
-**This is bold and *This text is italicized***
-
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+# Project Python practice while loop
+**This example code designed for *new programmers*, and will using the python language.**<br>
+### [Link for download python](https://www.python.org/downloads/release/python-380/)
 
     nums = [1, 2, 3, 4, 5]  
 
@@ -21,19 +14,29 @@ git commit
    
     print(num)
     
-# Prerequisites
+## Running
+Once installed you can run the program with the following command<br>
+```
+python num.py
+```
+
+Add any additional ways to run the program below<br>
+```
+python num.py test.txt
+```
+## Prerequisites
 1. Administrator privileges.
 2. Access to a command-line.
 3. Your favorite coding text editor.
 4. Username and password for the Github website (optional)<br>
 
-## Links
+## Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
-:octocat:[Learning Rest vs GraphQL](https://www.youtube.com/watch?v=4akSaaEYJqs)<br>
-:octocat:[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
-:octocat:[เงื่อนไข (condition) if, else, elif และเงื่อนไขซ้อน nested if ](https://www.youtube.com/watch?v=VyCsBjx0Iug)<br>
-:octocat:[เรียนรู้พื้นฐานการใช้งาน Git & GitHub](https://www.youtube.com/watch?v=RR_Ih6d71YA&list=RDCMUCeKE6wQHTt5JpS9_RsH4hrg&start_radio=1&t=111s)<br> 
-:octocat:[Git Tutorial for Beginners - GitHub Version Control](https://www.youtube.com/watch?v=PWqS4NBhEY8)
 ## Task lists
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
