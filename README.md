@@ -17,12 +17,13 @@
 ## Running
 Once installed you can run the program with the following command<br>
 ```
-python num.py
+test1.py
 ```
 
 Add any additional ways to run the program below<br>
 ```
-python num.py test.txt
+test1.py 
+test1.txt
 ```
 ## Prerequisites
 1. Administrator privileges.
@@ -35,6 +36,17 @@ python num.py test.txt
 git status
 git add
 git commit
+git log
+git init
+<directory>
+git clone <repo>
+
+git config
+user.name <name>
+
+git commit -m
+"<message>"
+
 ```
 
 ## Task lists
