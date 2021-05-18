@@ -17,13 +17,13 @@
 ## Running
 Once installed you can run the program with the following command<br>
 ```
-test1.py
+py test1.py
 ```
 
 Add any additional ways to run the program below<br>
 ```
-test1.py 
-test1.txt
+py test1.py 
+ py test1.txt
 ```
 ## Prerequisites
 1. Administrator privileges.
