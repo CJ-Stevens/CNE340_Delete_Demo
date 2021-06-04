@@ -1,20 +1,10 @@
 # Project Python practice while loop
 **This example code designed for *new programmers*, and will using the python language.**<br>
+
 ### [Link for download python](https://www.python.org/downloads/release/python-380/)
 
-    nums = [1, 2, 3, 4, 5]  
-
-    for num in nums:
-    
-    if num == 3:
-        
-        print('Found!')
-       
-        break
    
-    print(num)
-    
-## Running
+    ## Running
 Once installed you can run the program with the following command<br>
 ```
 py test1.py
@@ -23,27 +13,25 @@ py test1.py
 Add any additional ways to run the program below<br>
 ```
 py test1.py 
- py test1.txt
+py test1.txt
 ```
 ## Prerequisites
-1. Administrator privileges.
-2. Access to a command-line.
-3. Your favorite coding text editor.
-4. Username and password for the Github website (optional)<br>
+1. [Python 3](https://www.python.org/downloads/)
+2. [PyCharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)
+3. [Visual Studio Code](https://code.visualstudio.com/download)
+4. [GitHub](https://git-scm.com/download/win)
 
 ## Some basic Git commands are:
 ```
-git status
+git init
 git add
+git status
 git commit
 git log
-git init
-<directory>
 git clone <repo>
-
 git config
 user.name <name>
-
+git commit -A
 git commit -m
 "<message>"
 
